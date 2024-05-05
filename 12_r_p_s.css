@@ -13,6 +13,10 @@ body{
   height: 50px;
 }
 
+h1 {
+  color: aquamarine;
+}
+
 .move-button{
   background-color: transparent;
   border : 3px solid white; 
